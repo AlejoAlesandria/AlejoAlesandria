@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AlejoAlesandria.
-- 👀 I'm interested in this platform and I like microcontroller programming.
-- 🌱 I’m currently learning the Python language.
-- 💞️ I’m looking to collaborate in my learning.
+- 👀 I'm interested in this platform and I like to learn new things.
+- 🌱 I'm currently in the 5th year of university.
 - 📫 How to reach me? You can write to my email address, alealesandria@gmai.com
 
 <!---
