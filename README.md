@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlejoAlesandria.
-- 👀 I'm interested in this platform and I like to learn new things.
-- 🌱 I'm currently in the 5th year of university.
+- 👀 I'm interested in this platform and I like learning new things.
+- 🌱 I'm currently in my 5th year of university.
 - 📫 How to reach me? You can write to my email address, alealesandria@gmai.com
 
 <!---
