@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AlejoAlesandria.
-- 👀 I'm interested in this platform and I like learning new things.
-- 🌱 I'm currently in 6th year of university.
-- 📫 How to reach me? You can write to my email address, alealesandria@gmail.com
+- 👋 Hi, I am @AlejoAlesandria.
+- 👀 I am interested in this platform and like learning new things.
+- 🌱 I am in my sixth year of university.
+- 📫 You can reach me by e-mail at alealesandria@gmail.com
 
 <!---
 AlejoAlesandria/AlejoAlesandria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
